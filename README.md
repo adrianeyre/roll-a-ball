@@ -3,7 +3,6 @@
 ### [Makers Academy] (http://www.makersacademy.com) - Week 10 Research
 
 ## Index
-* [Installation] (#Install)
 * [Usage] (#Usage)
 * [Screenshots] (#shots)
 
