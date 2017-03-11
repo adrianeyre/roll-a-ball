@@ -7,7 +7,7 @@
 * [Screenshots] (#shots)
 
 ## Challenege
-A simple game designed in Unity that allows you to roll a ball around a play area picking up rotating cubes. This purpose of this project was to research Unities functionality and scripting in C#.
+A simple game designed in Unity that allows you to roll a ball around a play area picking up rotating cubes. The purpose of this project was to research Unities functionality and scripting in C#.
 
 ## <a name="Usage">Usage</a>
 * Go to the [Unity] (https://unity3d.com/) website and Install the software
