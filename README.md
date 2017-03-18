@@ -1,10 +1,10 @@
 # Roll a Ball
 #### Technologies: C#, Unity
-### [Makers Academy] (http://www.makersacademy.com) - Week 10 Research
+### [Makers Academy](http://www.makersacademy.com) - Week 10 Research
 
 ## Index
-* [Usage] (#Usage)
-* [Screenshots] (#shots)
+* [Usage](#Usage)
+* [Screenshots](#shots)
 
 ## Challenege
 A simple game designed in Unity that allows you to roll a ball around a play area picking up rotating cubes. The purpose of this project was to research Unities functionality and scripting in C#.
@@ -15,7 +15,7 @@ A simple game designed in Unity that allows you to roll a ball around a play are
 $ git clone https://github.com/adrianeyre/roll-a-ball
 $ cd roll-a-ball
 ```
-* Go to the [Unity] (https://unity3d.com/) website and Install the software
+* Go to the [Unity](https://unity3d.com/) website and Install the software
 * Load and run the application
 
 ## <a name="Shots">Screen Shots</a>
